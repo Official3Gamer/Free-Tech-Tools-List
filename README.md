@@ -1,4 +1,6 @@
-﻿## File Hosting Sites
+![GitHub repo size](https://img.shields.io/github/repo-size/official3gamer/Free-Tech-Tools-List)
+
+## File Hosting Sites
 [FilePizza](https://file.pizza/) 
 
 [Upload Bay](https://uploadbay.net/) 
