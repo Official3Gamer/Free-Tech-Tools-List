@@ -1,7 +1,8 @@
+[
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/official3gamer/Free-Tech-Tools-List">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/official3gamer/Free-Tech-Tools-List?display_timestamp=committer">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/official3gamer">
-
+]
 
 
 List of tools and services that are free!
