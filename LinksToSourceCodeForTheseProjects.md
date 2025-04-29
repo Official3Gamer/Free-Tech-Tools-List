@@ -1,32 +1,13 @@
-This file is still W.I.P
+Source Code Links
 
 ## File Hosting Sites
 [FilePizza](https://github.com/kern/filepizza) 
 
-[Upload Bay](https://uploadbay.net/) 
+[Catbox (Doesnt Contain Github)](https://catbox.llc/)
 
-[Wormhole](https://wormhole.app/) 
+[transfer.whalebone.io](https://github.com/dutchcoders/transfer.sh) 
 
-[Litterbox](https://litterbox.catbox.moe/)
-
-[Catbox](https://catbox.moe/)
-
-[transfer.whalebone.io](https://transfer.whalebone.io/) 
-
-[Filebin](https://filebin.net/) 
-
-[AnonFile](https://www.anonfile.la/)
-
-## Cloud Storage
-[TeraBox](https://www.terabox.com/) [Has Priceing Options]
-
-[Mega](https://mega.io/) [Has Priceing Options + Limited Data Traffic]
+[Filebin](https://github.com/espebra/filebin2/) 
 
 ## File Converters
-[VERT.sh](https://vert.sh/)
-
-## Virus Scanning
-[VirusTotal](https://www.virustotal.com/)
-
-## All Sorts of Tools
-[PineTools](https://pinetools.com/)
+[VERT.sh](https://github.com/VERT-sh/VERT)
