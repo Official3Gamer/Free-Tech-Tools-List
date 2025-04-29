@@ -7,7 +7,9 @@
 
 [Wormhole](https://wormhole.app/) 
 
-[Litterbox](https://litterbox.catbox.moe/) 
+[Litterbox](https://litterbox.catbox.moe/)
+
+[Catbox](https://catbox.moe/)
 
 [transfer.whalebone.io](https://transfer.whalebone.io/) 
 
@@ -15,5 +17,16 @@
 
 [AnonFile](https://www.anonfile.la/)
 
+## Cloud Storage
+[TeraBox](https://www.terabox.com/) [Has Priceing Options]
+
+[Mega](https://mega.io/) [Has Priceing Options + Limited Data Traffic]
+
 ## File Converters
 [VERT.sh](https://vert.sh/)
+
+## Virus Scanning
+[VirusTotal](https://www.virustotal.com/)
+
+## All Sorts of Tools
+[PineTools](https://pinetools.com/)
