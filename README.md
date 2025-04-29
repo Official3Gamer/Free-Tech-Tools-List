@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/official3gamer/Free-Tech-Tools-List)
+![GitHub repo size](https://img.shields.io/github/repo-size/official3gamer/Free-Tech-Tools-List) List of tools and services that are free!
 
 ## File Hosting Sites
 [FilePizza](https://file.pizza/) 
