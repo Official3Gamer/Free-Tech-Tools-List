@@ -36,6 +36,10 @@ List of tools and services that are free!
 
 [VirusTotal](https://www.virustotal.com/) [Virus File Scan]
 
+[Phcode](https://phcode.io/) [Coding and Text editor]
+
+[StackEdit](https://stackedit.io/) [Markdown Editor]
+
 ## Networking and Security
 [OpenVPN](https://openvpn.net/) - Open-source VPN solution for secure point-to-point or site-to-site connections.
 
