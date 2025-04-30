@@ -8,7 +8,7 @@
 List of tools and services that are free!
 
 ## File Hosting Sites
-[FilePizza](https://file.pizza/) 
+[FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser.
 
 [Upload Bay](https://uploadbay.net/) 
 
