@@ -29,11 +29,12 @@ List of tools and services that are free!
 
 [Mega](https://mega.io/) [Has Priceing Options + Limited Data Traffic]
 
-## File Converters
-[VERT.sh](https://vert.sh/)
+## File Tools
+[VERT.sh](https://vert.sh/) [File Convert]
 
-## Virus Scanning
-[VirusTotal](https://www.virustotal.com/)
+[Hat.sh](https://hat.sh/) [File Encryption]
+
+[VirusTotal](https://www.virustotal.com/) [Virus File Scan]
 
 ## Networking and Security
 [OpenVPN](https://openvpn.net/) - Open-source VPN solution for secure point-to-point or site-to-site connections.
