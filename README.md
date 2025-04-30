@@ -10,13 +10,13 @@ List of tools and services that are free!
 ## File Hosting Sites
 [FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser.
 
-[Upload Bay](https://uploadbay.net/) 
+[Upload Bay](https://uploadbay.net/) - (Max 100MB)
 
-[Wormhole](https://wormhole.app/) 
+[Wormhole](https://wormhole.app/) - Simple, private file sharing
 
-[Litterbox](https://litterbox.catbox.moe/)
+[Litterbox](https://litterbox.catbox.moe/) - Temporary uploads up to 1 GB
 
-[Catbox](https://catbox.moe/)
+[Catbox](https://catbox.moe/) - Uploads up to 200 MB
 
 [transfer.whalebone.io](https://transfer.whalebone.io/) 
 
