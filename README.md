@@ -24,6 +24,8 @@ List of tools and services that are free!
 
 [AnonFile](https://www.anonfile.la/)
 
+[beamitup.net](https://beamitup.net/)
+
 ## Cloud Storage
 [TeraBox](https://www.terabox.com/) [Has Priceing Options]
 
