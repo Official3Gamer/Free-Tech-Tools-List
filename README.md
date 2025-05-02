@@ -42,6 +42,8 @@ List of tools and services that are free!
 
 [StackEdit](https://stackedit.io/) [Markdown Editor]
 
+[combinepdf.com](https://combinepdf.com/) [PDF Tools]
+
 ## Networking and Security
 [OpenVPN](https://openvpn.net/) - Open-source VPN solution for secure point-to-point or site-to-site connections.
 
