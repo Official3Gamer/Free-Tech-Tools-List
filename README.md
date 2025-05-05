@@ -26,10 +26,12 @@ List of tools and services that are free!
 
 [send-instances](https://github.com/timvisee/send-instances)
 
-## Cloud Storage
-[TeraBox](https://www.terabox.com/) [Has Priceing Options]
+[buzzheavier](https://buzzheavier.com/) [Has Pricing]
 
-[Mega](https://mega.io/) [Has Priceing Options + Limited Data Traffic]
+## Cloud Storage
+[TeraBox](https://www.terabox.com/) [Has Pricing Options]
+
+[Mega](https://mega.io/) [Has Pricing Options + Limited Data Traffic]
 
 ## File Tools
 [VERT.sh](https://vert.sh/) [File Convert]
