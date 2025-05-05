@@ -16,9 +16,7 @@ List of tools and services that are free!
 
 [Litterbox](https://litterbox.catbox.moe/) - Temporary uploads up to 1 GB
 
-[Catbox](https://catbox.moe/) - Uploads up to 200 MB
-
-[transfer.whalebone.io](https://transfer.whalebone.io/) 
+[Catbox](https://catbox.moe/) - Uploads up to 200 MB 
 
 [Filebin](https://filebin.net/) 
 
