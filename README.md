@@ -14,9 +14,9 @@ List of tools and services that are free!
 
 [Wormhole](https://wormhole.app/) - (Temporary Uploads)
 
-[Litterbox](https://litterbox.catbox.moe/) - Temporary uploads up to 1 GB
+[Litterbox](https://litterbox.catbox.moe/) - Temporary uploads up to 1 GB (Has Randomized File Names)
 
-[Catbox](https://catbox.moe/) - Uploads up to 200 MB 
+[Catbox](https://catbox.moe/) - Uploads up to 200 MB (Has Randomized File Names)
 
 [Filebin](https://filebin.net/) 
 
