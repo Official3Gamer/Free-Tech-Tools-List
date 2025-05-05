@@ -12,7 +12,7 @@ List of tools and services that are free!
 
 [Upload Bay](https://uploadbay.net/) - (Max 100MB)
 
-[Wormhole](https://wormhole.app/) - Simple, private file sharing
+[Wormhole](https://wormhole.app/) - (Temporary Uploads)
 
 [Litterbox](https://litterbox.catbox.moe/) - Temporary uploads up to 1 GB
 
