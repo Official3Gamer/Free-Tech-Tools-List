@@ -42,7 +42,7 @@ List of tools and services that are free!
 
 [Phcode](https://phcode.io/) [Coding and Text editor]
 
-[StackEdit](https://stackedit.io/) [Markdown Editor]
+[StackEdit](https://stackedit.io/) [Github](https://github.com/benweet/stackedit) [Markdown Editor]
 
 [combinepdf.com](https://combinepdf.com/) [PDF Tools]
 
