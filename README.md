@@ -36,7 +36,7 @@ List of tools and services that are free!
 ## File Tools
 [VERT.sh](https://vert.sh/) [File Convert]
 
-[Hat.sh](https://hat.sh/) [File Encryption]
+[Hat.sh](https://github.com/sh-dv/hat.sh) [File Encryption]
 
 [VirusTotal](https://www.virustotal.com/) [Virus File Scan]
 
