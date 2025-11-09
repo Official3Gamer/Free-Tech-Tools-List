@@ -52,3 +52,7 @@ List of tools and services that are free!
 
 ## Other
 [PineTools](https://pinetools.com/)
+
+---
+## Software
+[MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
