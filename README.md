@@ -26,7 +26,7 @@ List of tools and services that are free!
 
 [buzzheavier](https://buzzheavier.com/) [Has Pricing]
 
-[SwissTransfer](https://www.swisstransfer.com/)
+[SwissTransfer](https://www.swisstransfer.com/) - (Max 50GB Total) (Uploads Last up to 30 Days)
 
 ## Links Shortener 
 
