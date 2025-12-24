@@ -20,13 +20,17 @@ List of tools and services that are free!
 
 [Filebin](https://filebin.net/) 
 
-[AnonFile](https://www.anonfile.la/)
-
 [beamitup.net](https://beamitup.net/)
 
 [send-instances](https://github.com/timvisee/send-instances)
 
 [buzzheavier](https://buzzheavier.com/) [Has Pricing]
+
+[SwissTransfer](https://www.swisstransfer.com/)
+
+## Links Shortener 
+
+[Bity (Formerly AnnonFile)](https://bity.la/)
 
 ## Cloud Storage
 [TeraBox](https://www.terabox.com/) [Has Pricing Options]
