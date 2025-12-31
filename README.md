@@ -60,6 +60,9 @@ List of tools and services that are free!
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
+
 [MIDI Merger Lite](https://github.com/VirtuosicAI/MIDI-Merger-Lite) - Midi Merging tool
+
 [Zenith MIDI](https://github.com/arduano/Zenith-MIDI) - Midi Video Rendering Tool
+
 [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) - Midi Audio Rendering Tool
