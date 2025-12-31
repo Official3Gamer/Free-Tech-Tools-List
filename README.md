@@ -66,3 +66,5 @@ List of tools and services that are free!
 [Zenith MIDI](https://github.com/arduano/Zenith-MIDI) - Midi Video Rendering Tool
 
 [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) - Midi Audio Rendering Tool
+
+[ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool
