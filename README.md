@@ -76,3 +76,7 @@ List of tools and services that are free!
 [nuvotion.live/mosh](https://nuvotion.live/mosh) video datamoshing tool
 
 [Shotcut](https://shotcut.org) Video Editing Tool
+
+
+## Browser Extentions
+[Fix Discord CDN](https://chromewebstore.google.com/detail/fix-discord-cdn/gdljcbcihhoampfcfeokidlbanblkgbg) - Fixes the error page on discord CDN links
