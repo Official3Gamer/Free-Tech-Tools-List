@@ -28,6 +28,8 @@ List of tools and services that are free!
 
 [SwissTransfer](https://www.swisstransfer.com/) - (Max 50GB Total) (Uploads Last up to 30 Days)
 
+[tmpweb.net](https://tmpweb.net) - Temp Web Hosting
+
 ## Links Shortener 
 
 [Bity (Formerly AnnonFile)](https://bity.la/)
