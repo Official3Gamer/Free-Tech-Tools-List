@@ -59,6 +59,8 @@ List of tools and services that are free!
 ## Other
 [PineTools](https://pinetools.com/)
 
+[MP3 To Midi Converter](https://www.conversion-tool.com/audiotomidi/)
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
@@ -72,3 +74,5 @@ List of tools and services that are free!
 [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool
 
 [nuvotion.live/mosh](https://nuvotion.live/mosh) video datamoshing tool
+
+[Shotcut](https://shotcut.org) Video Editing Tool
