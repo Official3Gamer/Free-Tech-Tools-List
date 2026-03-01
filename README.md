@@ -61,6 +61,8 @@ List of tools and services that are free!
 
 [MP3 To Midi Converter](https://www.conversion-tool.com/audiotomidi/)
 
+https://textcraft.net/
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
