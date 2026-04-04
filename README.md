@@ -79,6 +79,8 @@ https://textcraft.net/
 
 [Shotcut](https://shotcut.org) Video Editing Tool
 
+[file-converter.io](https://file-converter.io) - File Convertion Software
+
 
 ## Browser Extentions
 [Fix Discord CDN](https://chromewebstore.google.com/detail/fix-discord-cdn/gdljcbcihhoampfcfeokidlbanblkgbg) - Fixes the error page on discord CDN links
