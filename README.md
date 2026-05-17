@@ -55,6 +55,8 @@ List of tools and services that are free!
 ## Networking and Security
 [OpenVPN](https://openvpn.net/) - Open-source VPN solution for secure point-to-point or site-to-site connections.
 
+[Fast.com](https://fast.com/) - Network Speed Test
+
 
 ## Other
 [PineTools](https://pinetools.com/)
