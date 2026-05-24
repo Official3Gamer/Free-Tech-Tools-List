@@ -30,6 +30,8 @@ List of tools and services that are free!
 
 [tmpweb.net](https://tmpweb.net) - Temp Web Hosting
 
+[FileDitch](https://new.fileditch.com/)
+
 ## Links Shortener 
 
 [Bity (Formerly AnnonFile)](https://bity.la/)
