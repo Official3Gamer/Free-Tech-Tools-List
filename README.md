@@ -85,6 +85,7 @@ https://textcraft.net/
 
 [file-converter.io](https://file-converter.io) - File Convertion Software
 
+[VidCoder](https://vidcoder.net/) - Video Encoding Tool [Similar to handbrake]
 
 ## Browser Extentions
 [Fix Discord CDN](https://chromewebstore.google.com/detail/fix-discord-cdn/gdljcbcihhoampfcfeokidlbanblkgbg) - Fixes the error page on discord CDN links
