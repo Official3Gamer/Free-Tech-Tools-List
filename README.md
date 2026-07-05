@@ -63,6 +63,9 @@ List of tools and services that are free!
 ## Radio
 [FCC INFO DB](https://www.fccinfo.com/)
 
+## Torrenting
+[bt4gprx](https://bt4gprx.com/)
+
 
 ## Other
 [PineTools](https://pinetools.com/)
