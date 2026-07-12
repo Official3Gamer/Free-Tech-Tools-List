@@ -79,6 +79,8 @@ https://textcraft.net/
 [www.schematicsunlimited.com](https://www.schematicsunlimited.com/) - 
 Download FREE diagrams, schematics, service manuals, operating manuals and other useful information for a variety of products.
 
+https://www.schematics.me/
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
