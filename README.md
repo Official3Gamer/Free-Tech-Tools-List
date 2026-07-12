@@ -74,6 +74,8 @@ List of tools and services that are free!
 
 https://textcraft.net/
 
+[Online Tetyys SAPI4](https://www.tetyys.com/SAPI4/)
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
