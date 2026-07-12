@@ -88,9 +88,9 @@ https://textcraft.net/
 
 [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool
 
-[nuvotion.live/mosh](https://nuvotion.live/mosh) video datamoshing tool
+[nuvotion.live/mosh](https://nuvotion.live/mosh) - video datamoshing tool
 
-[Shotcut](https://shotcut.org) Video Editing Tool
+[Shotcut](https://shotcut.org) - Video Editing Tool
 
 [file-converter.io](https://file-converter.io) - File Convertion Software
 
