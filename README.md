@@ -81,6 +81,8 @@ Download FREE diagrams, schematics, service manuals, operating manuals and other
 
 https://www.schematics.me/
 
+https://www.servicemanuals.net/en
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
