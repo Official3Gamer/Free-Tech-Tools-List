@@ -88,6 +88,8 @@ http://www.e-servicemanuals.com/
 
 https://www.manualowl.com/
 
+https://www.manua.ls/
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
