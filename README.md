@@ -86,6 +86,8 @@ https://www.servicemanuals.net/en
 
 http://www.e-servicemanuals.com/
 
+https://www.manualowl.com/
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
