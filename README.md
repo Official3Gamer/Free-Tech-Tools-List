@@ -90,6 +90,10 @@ https://www.manualowl.com/
 
 https://www.manua.ls/
 
+https://www.manualslib.com/index/index/
+
+https://manualzilla.com/
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
