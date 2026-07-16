@@ -76,6 +76,7 @@ https://textcraft.net/
 
 [Online Tetyys SAPI4](https://www.tetyys.com/SAPI4/)
 
+https://utils.com/
 ## Manuals
 [www.schematicsunlimited.com](https://www.schematicsunlimited.com/) - 
 Download FREE diagrams, schematics, service manuals, operating manuals and other useful information for a variety of products.
