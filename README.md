@@ -95,6 +95,8 @@ https://www.manualslib.com/index/index/
 
 https://manualzilla.com/
 
+https://instantdomainsearch.com/domain-extensions
+
 ---
 ## Software
 [MediaInfo](https://mediaarea.net/en/MediaInfo) - Metadata Viewer
